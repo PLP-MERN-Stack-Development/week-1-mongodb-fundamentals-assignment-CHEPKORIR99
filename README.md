@@ -1,3 +1,24 @@
+Student Info
+Name: Chepkorir Tuei
+GitHub Username: CHEPKORIR99
+Program: Power Learn Project – MERN Stack Track
+ insert_books.js         # Script to populate MongoDB with sample book data
+├── queries.js              # Advanced queries, aggregations, and indexes
+├── screenshot.png          # Screenshot of MongoDB Compass or mongosh
+├── README.md               # Setup and project overview
+└── Week1-Assignment.md  
+
+
+
+
+
+
+
+
+
+
+
+
 [![Open in Visual Studio Code](https://classroom.github.com/assets/open-in-vscode-2e0aaae1b6195c2367325f4f02e2d04e9abb55f0b24a779b69b11b9e10269abc.svg)](https://classroom.github.com/online_ide?assignment_repo_id=19954843&assignment_repo_type=AssignmentRepo)
 # MongoDB Fundamentals Assignment
 
